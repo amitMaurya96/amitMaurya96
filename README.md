@@ -51,5 +51,5 @@
    <img src="https://activity-graph.herokuapp.com/graph?username=amitmaurya96&theme=xcode" alt="Contribution Graph" align="center" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/atul1510/amitmaurya96/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/atul1510/atul1510/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
