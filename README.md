@@ -8,7 +8,7 @@
 <div align="center">
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmaurya96&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaurya96" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amit_maurya2" target="blank"><img src="https://img.shields.io/twitter/follow/amit_maurya2?logo=twitter&style=for-the-badge" alt="amit_maurya2" /></a> </p>
 
