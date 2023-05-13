@@ -38,18 +38,18 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 <h3>My GitHub stats<h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmaurya96&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaurya96" /> </p>
 
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amitmaurya96&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=atul1510&theme=nightowl&hide_border=true&fire=DD2727" alt="atul1510" />
-  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=atul1510&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="atul1510" />
+  <img width="49%"   src="https://github-readme-streak-stats.herokuapp.com/?user=amitmaurya96&theme=nightowl&hide_border=true&fire=DD2727" alt="amitmaurya96" />
+  <img width="40%" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmaurya96&color=0e75b6&style=flat&theme=nightowl&hide_border=true" alt="amitmaurya96" />
 </p>
 
 
 <summary>:chart_with_upwards_trend: Contribution Chart </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=atul1510&theme=xcode" alt="Contribution Graph" align="center" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=amitmaurya96&theme=xcode" alt="Contribution Graph" align="center" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/atul1510/atul1510/output/github-contribution-grid-snake.svg" alt="snake"></center>
