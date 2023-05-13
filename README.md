@@ -10,9 +10,9 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul1510&label=Profile%20views&color=0e75b6&style=flat" alt="atul1510" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itzatulkumar15" target="blank"><img src="https://img.shields.io/twitter/follow/itzatulkumar15?logo=twitter&style=for-the-badge" alt="itzatulkumar15" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amit_maurya2" target="blank"><img src="https://img.shields.io/twitter/follow/amit_maurya2?logo=twitter&style=for-the-badge" alt="amit_maurya2" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/atul1510)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/amitMaurya96)
 
 - 🔭 Contributor in an Open Source Contribution Program **Hactoberfest'22**
 
