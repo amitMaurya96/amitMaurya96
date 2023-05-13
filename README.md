@@ -28,10 +28,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itzatulkumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itzatulkumar15" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atul1510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul1510" height="30" width="40" /></a>
-<a href="https://instagram.com/atul_kumar15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atul_kumar15" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/atul1510" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atul1510" height="30" width="40" /></a>
+<a href="https://twitter.com/amit_maurya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amit_maurya2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amit-maurya20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-maurya20" height="30" width="40" /></a>
+<a href="https://www.instagram.com/amit_maurya2010/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit_maurya2010" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/amitmaurya20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amitmaurya20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
