@@ -46,10 +46,6 @@
 </p>
 
 
-<summary>:chart_with_upwards_trend: Contribution Chart </summary>
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=amitmaurya96&theme=xcode" alt="Contribution Graph" align="center" />
-
 <h2>My Contribution Graph 💹 </h2>
 
 <p align="center">
