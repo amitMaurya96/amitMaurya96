@@ -50,4 +50,9 @@
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=amitmaurya96&theme=xcode" alt="Contribution Graph" align="center" />
 
+<h2>My Contribution Graph 💹 </h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amitMaurya96/amitMaurya96/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
